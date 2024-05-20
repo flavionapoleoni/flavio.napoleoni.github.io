@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - Sport Website</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body style="color:brown">
+    <h1>Palestra</h1>
+
+</body>
+<body>
+    <header>
+        <nav>
+            <a href="#index">Home</a>
+            <a href="#news">Notizie</a>
+            <a href="#events">Eventi</a>
+            <a href="#subscriptions">Abbonamenti</a>
+            <a href="#contact">Contatti</a>
+        </nav>
+    </header>
+    <main>
+        <h1>Benvenuti al nostro sito di sport!</h1>
+        <p>Scopri le ultime notizie, eventi e informazioni sugli abbonamenti.</p>
+<center><img src="https://www.sportingmilano3.it/wp-content/uploads/2016/06/PALESTRA-.jpg" weight="300" height="200"></center>
+    </main>
+    <footer>
+        <p>&copy; 2024 Sport Website. Tutti i diritti riservati.</p>
+    </footer>
+</body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notizie - Sport Website</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a name="news"></a>
+         
+        </nav>
+    </header>
+    <main>
+        <h1>Notizie Sportive</h1>
+        <p>Le ultime notizie dal mondo dello sport.</p>
+-Aperta tutti i giorni dal Lunedì al Venerdì con orario continuato 8:30 – 22,00.
+Sabato dalle 8:30 alle 14.<br>
+-La prenotazione è fortemente consigliata, visto le restrizioni per la presenza in palestra.<br>
+-Potrai allenarti in sala o con i nostri corsi.<br>
+-Se hai un abbonamento che era stato sospeso a Ottobre lo puoi riprendere dal 24 Maggio.<br>
+-Per ogni altra informazione chiama la segreteria oppure passa, venerdì 21 Maggio, presso nostra palestra.<br>
+<center><img src="https://gruppo.canovasport.it/palestrasaletto/wp-content/uploads/sites/4/2021/05/NOI-CI-SIAMO-E-TI-ASPETTIAMO-1280x1280.png" weight="300" height="200"></center>
+    </main>
+    <footer>
+        <p>&copy; 2024 Sport Website. Tutti i diritti riservati.</p>
+    </footer>
+</body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eventi - Sport Website</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a name="events"></a>
+            
+        </nav>
+    </header>
+    <main>
+        <h1>Eventi Sportivi</h1>
+        <p>Tutti gli eventi sportivi prossimi.</p>
+
+una mattinata dedicata al fitness: <br> venite a sperimentare le possibilità di Strada Facendo Indoor per una sana e dinamica tonificazione, e scegliete quella più adatta ...<br>
+Ingresso libero<br>
+PROGRAMMA <br>
+ore 9.30 - Attività funzionale.<br>
+ore 10.30 - Allenamento funzionale.<br>
+ore 11.30 - Body tonic.<br>
+ore 12.15 - Presciistica.<br>
+<center><img src="https://citynews-trevisotoday.stgy.ovh/~media/original-hi/35529748292088/open-day-fitness-sabato-29-settembre-palestra-strada-facendo-indoor.jpg" weight="300" height="200"></center>
+    </main>
+    <footer>
+        <p>&copy; 2024 Sport Website. Tutti i diritti riservati.</p>
+    </footer>
+</body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abbonamenti - Sport Website</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a name="subscriptions"></a>
+        </nav>
+    </header>
+    <main>
+        <h1>Abbonamenti</h1>
+        <p>Informazioni sugli abbonamenti disponibili.</p>
+Promozioni<br>
+Applichiamo uno sconto del 10% nei seguenti casi:<br>
+
+Parente di 1^ Grado<br>
+-Genitori degli allievi iscritti alla nostra Scuola Tennis.<br>
+
+Se invece porti un amico ad iscriversi:<br>
+-1 settimana in più per te, su un abbonamento di 1 mese<br>
+-20 giorni in più per te, su un abbonamento di 3 mesi<br>
+-1 mese in più per te, su un abbonamento di 6 mesi<br>
+-Convenzioni con società attraverso questi circuiti:<br>
+
+ -Gym Pass -Fit Prime -Urban Sports Club<br>
+<center><img src="https://www.fitnessvianello.it/wp-content/uploads/2021/06/sala-pesi-abbonamenti-615x615.png" weight="300" height="200"></center>
+    </main>
+    <footer>
+        <p>&copy; 2024 Sport Website. Tutti i diritti riservati.</p>
+    </footer>
+</body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contatti - Sport Website</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a name="contact"></a>
+        </nav>
+    </header>
+    <main>
+        <h1>Contatti</h1>
+        <p>Come contattarci.</p>
+
+Palestra Canovasport:<br>
+
+Via G.Agnelli 2, 35046 Saletto PD<br>
+tel:348 558 6455<br>
+email: palestrasaletto@canovasport.it<br>
+
+    </main>
+    <footer>
+        <p>&copy; 2024 Sport Website. Tutti i diritti riservati.</p>
+    </footer>
+</body>
+</html>
